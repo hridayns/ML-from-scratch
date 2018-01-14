@@ -1,0 +1,1 @@
+This repository consists of Machine Learning algorithms written in Python from scratch (without using libraries like sklearn).
