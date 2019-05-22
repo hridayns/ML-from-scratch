@@ -1,3 +1,17 @@
-Naive Bayes on the Pima Indians Diabetes dataset - https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes
+# Features
 
-Accuracy: 77.06%
+Accuracy of **77.06%** obtained when Naive Bayes classifier was trained on 768 rows with 8 features each:
+
+1. Number of pregnancies
+2. Plasma glucose concentration
+3. Blood Pressure
+4. Skin Thickness
+5. Insulin
+6. Body Mass Index (BMI)
+7. Diabetes Pedigree Function
+8. Age (in years)
+
+## Possible Classes
+
+- Diabetes (1)
+- No Diabetes (0)
